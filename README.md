@@ -1,6 +1,6 @@
 # Portfolio react application
 
-This is a basic portfolia website for photographer.
+This is a basic portfolio website for photographer.
 ## Requirements
 
  - [React.js](https://reactjs.org/)
@@ -11,8 +11,6 @@ This is a basic portfolia website for photographer.
 
  - Clone the repository.
  - Run `npm install` in server and client directories.
- - Run `cp server/.env.dist server/.env` from root directory.
- - Setup database credentials in `server/.env ` file.
 
 ## Launch backend server
 
