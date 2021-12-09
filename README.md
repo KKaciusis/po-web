@@ -1,3 +1,28 @@
+# Portfolio react application
+
+This is a basic portfolia website for photographer.
+## Requirements
+
+ - [React.js](https://reactjs.org/)
+ - [react-router](https://reactrouter.com/web/guides/quick-start)
+ - [react-bootstrap](https://react-bootstrap.github.io/getting-started/introduction/)
+
+## Setup the project
+
+ - Clone the repository.
+ - Run `npm install` in server and client directories.
+ - Run `cp server/.env.dist server/.env` from root directory.
+ - Setup database credentials in `server/.env ` file.
+
+## Launch backend server
+
+To start development server, run the following command: `npm run dev-start`
+Server runs on port 3001, open `http://localhost:3001`
+
+## Happy coding!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
