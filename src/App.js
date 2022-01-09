@@ -1,9 +1,11 @@
 import './Style/App.css';
+import Navigation from './Components/Landing/NavBar';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <>
+      <Navigation/>
+    </>
   );
 }
 
